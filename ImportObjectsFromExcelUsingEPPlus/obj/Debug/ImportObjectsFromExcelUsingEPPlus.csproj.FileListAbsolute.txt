@@ -1,0 +1,18 @@
+C:\Users\dan_h\Documents\SimioUserExtensions\ImportObjectsFromExcelUsingEPPlus.dll
+C:\Users\dan_h\Documents\SimioUserExtensions\ImportObjectsFromExcelUsingEPPlus.pdb
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetAddIn\Source\obj\Debug\ImportObjectsFromExcelUsingEPPlus.Properties.Resources.resources
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetAddIn\Source\obj\Debug\ImportObjectsFromExcelUsingEPPlus.StatusWindow.resources
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetAddIn\Source\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.GenerateResource.cache
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetAddIn\Source\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.CoreCompileInputs.cache
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetAddIn\Source\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.CopyComplete
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetAddIn\Source\obj\Debug\ImportObjectsFromExcelUsingEPPlus.dll
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetAddIn\Source\obj\Debug\ImportObjectsFromExcelUsingEPPlus.pdb
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetAddIn\Source\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csprojAssemblyReference.cache
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csprojAssemblyReference.cache
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.Properties.Resources.resources
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.StatusWindow.resources
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.GenerateResource.cache
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.CoreCompileInputs.cache
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.CopyComplete
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.dll
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.pdb
