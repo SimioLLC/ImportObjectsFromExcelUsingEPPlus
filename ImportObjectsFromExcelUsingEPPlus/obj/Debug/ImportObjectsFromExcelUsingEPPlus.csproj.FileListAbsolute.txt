@@ -8,7 +8,6 @@ E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetA
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetAddIn\Source\obj\Debug\ImportObjectsFromExcelUsingEPPlus.dll
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetAddIn\Source\obj\Debug\ImportObjectsFromExcelUsingEPPlus.pdb
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsAndLinksFromSpreadsheetAddIn\Source\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csprojAssemblyReference.cache
-E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csprojAssemblyReference.cache
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.Properties.Resources.resources
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.StatusWindow.resources
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.GenerateResource.cache
