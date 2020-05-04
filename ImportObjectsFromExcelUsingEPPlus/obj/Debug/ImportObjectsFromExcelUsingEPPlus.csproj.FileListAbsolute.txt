@@ -15,3 +15,4 @@ E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\Imp
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.CopyComplete
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.dll
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.pdb
+E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csprojAssemblyReference.cache
