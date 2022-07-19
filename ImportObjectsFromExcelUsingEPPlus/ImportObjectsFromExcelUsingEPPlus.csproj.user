@@ -2,6 +2,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
     <StartAction>Program</StartAction>
-    <StartProgram>C:\Program Files (x86)\Simio\Simio.exe</StartProgram>
+    <StartProgram>C:\Program Files\Simio LLC\Simio\Simio.exe</StartProgram>
   </PropertyGroup>
 </Project>

@@ -16,3 +16,11 @@ E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\Imp
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.dll
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.pdb
 E:\(svn azure)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csprojAssemblyReference.cache
+D:\(Clouds)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.AssemblyReference.cache
+D:\(Clouds)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.Properties.Resources.resources
+D:\(Clouds)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.StatusWindow.resources
+D:\(Clouds)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.GenerateResource.cache
+D:\(Clouds)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.CoreCompileInputs.cache
+D:\(Clouds)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.csproj.CopyComplete
+D:\(Clouds)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.dll
+D:\(Clouds)\SimioCloud\API\Examples2019\ImportObjectsFromExcelUsingEPPlus\ImportObjectsFromExcelUsingEPPlus\obj\Debug\ImportObjectsFromExcelUsingEPPlus.pdb
