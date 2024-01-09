@@ -86,7 +86,8 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>xcopy /Y "$(TargetPath)" "%25USERPROFILE%25\Documents\SimioUserExtensions\"
+    <PostBuildEvent>PowerShell -NoProfile -ExecutionPolicy Unrestricted -Command "&amp; { $docPath = [System.Environment]::GetFolderPath('MyDocuments'); Copy-Item -Path \"$(TargetPath)\" -Destination \"$docPath\\SimioUserExtensions\" -Force }"
+
 </PostBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
