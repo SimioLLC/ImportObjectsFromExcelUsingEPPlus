@@ -452,7 +452,7 @@ namespace ImportObjectsFromExcelUsingEPPlus
             }
             finally
             {
-                StatusWindow.UpdateLogs(Loggerton.Instance);
+                //StatusWindow.UpdateLogs(Loggerton.Instance);
             }
 
         }
