@@ -86,7 +86,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>PowerShell -NoProfile -ExecutionPolicy Unrestricted -Command "&amp; { $docPath = [System.Environment]::GetFolderPath('MyDocuments'); Copy-Item -Path \"$(TargetPath)\" -Destination \"$docPath\\SimioUserExtensions\" -Force }"
+    <PostBuildEvent>PowerShell -NoProfile -ExecutionPolicy Bypass -Command "&amp; { $targetFolder = [System.IO.Path]::Combine([Environment]::GetFolderPath([Environment+SpecialFolder]::MyDocuments), 'SimioUserExtensions'); Write-Host 'Target Folder:' $targetFolder; if (Test-Path -Path $targetFolder) { Write-Host 'Target folder already exists.' } else { Write-Host 'Target folder does not exist. Creating...'; New-Item -ItemType Directory -Force -Path $targetFolder; Write-Host 'Target folder created.' }; foreach ($file in Get-ChildItem \"$(TargetDir)*\" -File) { Copy-Item -Path $file.FullName -Destination $targetFolder; Write-Host 'Copied ' $file.Name ' to ' $targetFolder } }"
 
 </PostBuildEvent>
   </PropertyGroup>
